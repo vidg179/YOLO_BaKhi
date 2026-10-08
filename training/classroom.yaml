@@ -1,0 +1,18 @@
+path: ./training/datasets/classroom
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: cell phone
+  1: laptop
+  2: desk
+  3: chair
+  4: bottle
+  5: whiteboard
+  6: blackboard
+  7: projector
+  8: tv
+  9: book
+  10: backpack
+  11: mouse
+  12: keyboard
