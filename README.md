@@ -1,4 +1,4 @@
-# YOLO BaKhi — Nhận diện vật thể trong lớp học
+# Yolo/tensorflow detect object
 
 Ứng dụng di động sử dụng **Flutter, YOLO và TensorFlow Lite** để nhận diện vật thể qua camera hoặc ảnh có sẵn. Kết quả gồm khung bao, tên vật thể bằng tiếng Việt và điểm tin cậy. Mô hình chạy trực tiếp trên thiết bị, không cần máy chủ nhận diện.
 
